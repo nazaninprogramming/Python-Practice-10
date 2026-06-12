@@ -1,5 +1,5 @@
 """ Practicing some math modules. """
-# I'll practice more on this later.
+# I'll practice other modules on this file later.
 import math
 print(round(2.9))
 print(round(2.3))
